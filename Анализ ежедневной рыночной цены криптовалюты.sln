@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Анализ ежедневной рыночной цены криптовалюты", "Анализ ежедневной рыночной цены криптовалюты\Анализ ежедневной рыночной цены криптовалюты.csproj", "{6981144C-0925-4602-9BB9-979CF798E46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6981144C-0925-4602-9BB9-979CF798E46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6981144C-0925-4602-9BB9-979CF798E46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6981144C-0925-4602-9BB9-979CF798E46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6981144C-0925-4602-9BB9-979CF798E46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67AC7DC1-0751-462F-A9E2-D4F1B6E6B6C8}
+	EndGlobalSection
+EndGlobal
